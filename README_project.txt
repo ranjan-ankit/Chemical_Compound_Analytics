@@ -1,0 +1,2 @@
+The files were read based on the location on the computer it was located in so the code might not run as the data was extracted based on the name of that location i.e., 'C:\Users\ankit\PRACTICE_FILES_FOR_DATA_SCIENCE_LEARNING\INDEPENDENT STUDY\SDF_Mass_Spectra_Excel_ANKIT'
+The Python notebook was made in JupyterLab and can be read by an .ipynb editor.
